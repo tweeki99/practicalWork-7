@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\practicalWork-7\practicalWork-7\bin\Debug\practicalWork-7.exe.config
+C:\Users\Shipa\source\repos\practicalWork-7\practicalWork-7\bin\Debug\practicalWork-7.exe
+C:\Users\Shipa\source\repos\practicalWork-7\practicalWork-7\bin\Debug\practicalWork-7.pdb
+C:\Users\Shipa\source\repos\practicalWork-7\practicalWork-7\obj\Debug\practicalWork-7.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\practicalWork-7\practicalWork-7\obj\Debug\practicalWork-7.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\practicalWork-7\practicalWork-7\obj\Debug\practicalWork-7.exe
+C:\Users\Shipa\source\repos\practicalWork-7\practicalWork-7\obj\Debug\practicalWork-7.pdb
